@@ -1,0 +1,42 @@
+Author: Waqar Naseer                                                                                                  MAFD4202 - Team Project: Program #4
+
+                          Returns Report          PAGE 1
+
+ Trans Code    Trans Amount    Payment Type    Store Number    Invoice Number        SKU Code        Tax Owing
+
+     R             $24.99            CR              1           BD-500102        FLW8H4FW8H4FWF4       $3.25
+
+     R             $24.99            CR              1           BC-200102        FLW8H4FW8H4FWF4       $3.25
+
+     R             $29.99            DB              1           EB-230107        WI8HRW8H43FJSHF       $3.90
+
+     R             $89.99            CR              1           EA-260110        WI8HRW8H43FJSHF      $11.70
+
+     R             $24.99            CR              2           AE-390102        FLW8H4FW8H4FWF4       $3.25
+
+     R             $29.99            CA              2           CE-510035        SDFSKJ84MS09123       $3.90
+
+     R             $20.00            CA              2           EA-560215        SDFSKJ84MS09123       $2.60
+
+     R             $24.99            CR              2           AE-630202        FLW8H4FW8H4FWF4       $3.25
+
+     R            $124.99            CR              2           CD-740322        F4WO8JFO8W4JFW8      $16.25
+
+     R             $89.99            CR              4           BE-101510        WI8HRW8H43FJSHF      $11.70
+
+     R             $20.00            CA              4           DC-107515        SDFSKJ84MS09123       $2.60
+
+     R             $24.99            CR              5           DC-114502        FLW8H4FW8H4FWF4       $3.25
+
+     R             $29.99            CA             12           EC-126635        SDFSKJ84MS09123       $3.90
+
+     R             $24.99            CR             12           AC-130612        ASEDRFT987KIMYT       $3.25
+
+     R             $24.99            CR             12           CB-138602        FLW8H4FW8H4FWF4       $3.25
+
+Store 1 Total: $69.96  Store 2 Total: $24.96  Store 3 Total:  $0.00  Store 4 Total:  $9.99  Store 5 Total: 24.99 Store 12 Total: $79.97
+Total number of 'R' records: 15   Total Amount 'R':  $9.87
+Store #1 'R' Records:  4  Store #2 'R' Records:  5  Store #3 'R' Records:  0  Store #4 'R' Records:  2  Store #5 'R' Records: 1 Store #12 'R' Records:  3
+Total number of 'CA' records: 4      Total number of 'CR' records: 10       Total number of 'DB' records: 1
+Percentage of 'CA' records:   26.66%  Percentage of 'CR' records:   66.66%   Percentage of 'DB' records:  6.66%
+Total Tax Owing:       $79.30

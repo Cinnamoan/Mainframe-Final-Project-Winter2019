@@ -1,0 +1,26 @@
+Author: Ian Carlos                                                 MAFD4202 - Team Project: Program #2
+
+                                    COUNTS AND CONTROL TOTALS REPORT
+
+SALES and LAYAWAY RecordsTotal number of S&L records: 85                                   S&L Total Amount:         $22,838.86
+Total number of 'S' records: 69                                   'S' records total amount: $19,619.01
+Total number of 'L' records: 16                                   'L' records total amount:  $3,219.85
+Total transaction amount for '01' stores:  $3,299.87
+Total transaction amount for '02' stores:  $5,199.77
+Total transaction amount for '03' stores:  $1,789.91
+Total transaction amount for '04' stores:  $1,489.95
+Total transaction amount for '05' stores:  $1,389.42
+Total transaction amount for '12' stores:  $9,669.94
+% of transactions with Cash:        25.88%
+% of transactions with Credit Card: 27.06%
+% of transactions with Debit Card:  47.06%
+
+RETURN RecordsTotal number of 'R' records: 15                                   'R' records total amount:    $609.87
+Total transaction amount for '01' stores:    $169.96
+Total transaction amount for '02' stores:    $224.96
+Total transaction amount for '03' stores:
+Total transaction amount for '04' stores:    $109.99
+Total transaction amount for '05' stores:     $24.99
+Total transaction amount for '12' stores:     $79.97
+
+Grand Total Amount: $22,228.99
